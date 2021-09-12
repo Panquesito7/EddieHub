@@ -60,4 +60,5 @@ print(eddiehub.member("FayasNoushad"))
 ## Credits
 
 - [Fayas Noushad](https://github.com/FayasNoushad)
+- [Eddie Jaoude](https://github.com/eddiejaoude)
 - [EddieHub Community](https://github.com/EddieHubCommunity)

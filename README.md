@@ -10,3 +10,11 @@ Made with Python3
 Copyright permission under MIT License
 License -> https://github.com/FayasNoushad/EddieHub/blob/main/LICENSE
 ```
+
+---
+
+## Installation
+
+```
+pip install EddieHub
+```

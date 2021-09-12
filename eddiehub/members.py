@@ -7,6 +7,8 @@ def member(username):
             f"https://raw.githubusercontent.com/EddieHubCommunity/LinkFree/main/public/data/{username}.json"
         ).json()
     except:
+        details = {}
+    if details == {}:
         orgs = requests.get(f"https://api.github.com/users/{username}/orgs").json()
         joined = False
         for org in orgs:

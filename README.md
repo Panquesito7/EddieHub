@@ -18,3 +18,10 @@ License -> https://github.com/FayasNoushad/EddieHub/blob/main/LICENSE
 ```
 pip install EddieHub
 ```
+
+---
+
+## Credits
+
+- [Fayas Noushad](https://github.com/FayasNoushad)
+- [EddieHub Community](https://github.com/EddieHubCommunity)

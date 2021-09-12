@@ -27,6 +27,32 @@ pip install EddieHub
 - Don't forget after accepting to make it public so it appears on your GitHub profile for everyone else to see, you can do this by finding your name in the GitHub organisation list and change the dropdown to public https://github.com/orgs/EddieHubCommunity/people
 - Add your data on https://github.com/EddieHubCommunity/Linkfree
 
+## Usage
+
+<details>
+  <summary><b>About EddieHub:</b> For json result about EddieHub</summary>
+<br/>
+
+```python
+import eddiehub
+
+print(eddiehub.eddiehub())
+```
+
+</details>
+
+<details>
+  <summary><b>About Member:</b> For json result about member of EddieHub</summary>
+<br/>
+
+```python
+import eddiehub
+
+print(eddiehub.member("FayasNoushad"))
+```
+
+</details>
+
 ---
 
 ## Credits

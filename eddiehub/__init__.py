@@ -4,4 +4,4 @@
 # All rights reserved by FayasNoushad
 # License -> https://github.com/FayasNoushad/EddieHub/blob/main/LICENSE
 
-from .members import member
+from .members import member, members

@@ -24,7 +24,7 @@ def member(username):
 
 
 def members():
-    members = requests.get(
+    results = requests.get(
         "https://api.github.com/orgs/EddieHubCommunity/members"
     ).json()
-    return members
+    return results

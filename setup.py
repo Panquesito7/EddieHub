@@ -19,7 +19,7 @@ README = (file / "README.md").read_text()
 
 setup(
     name="EddieHub",
-    version="1.0.0",
+    version="1.1.0",
     author="FayasNoushad",
     long_description=README,
     long_description_content_type="text/markdown",

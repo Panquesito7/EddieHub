@@ -11,3 +11,10 @@ def member(username):
             "error": "User not found, Add data in https://github.com/EddieHubCommunity/LinkFree"
         }
     return details
+
+
+def members():
+    members = requests.get(
+        "https://api.github.com/orgs/EddieHubCommunity/members"
+    ).json()
+    return members

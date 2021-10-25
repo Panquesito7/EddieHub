@@ -1,9 +1,3 @@
-# EddieHub
-
-A EddieHub API python package.
-
----
-
 ```
 Made with Python3
 (C) @FayasNoushad
@@ -62,3 +56,5 @@ print(eddiehub.member("FayasNoushad"))
 - [Fayas Noushad](https://github.com/FayasNoushad)
 - [Eddie Jaoude](https://github.com/eddiejaoude)
 - [EddieHub Community](https://github.com/EddieHubCommunity)
+
+---
